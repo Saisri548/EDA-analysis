@@ -41,4 +41,4 @@ The main goal of this project is to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/freelancer-analysis.git
+   git clone https://github.com/Saisri548/freelancer-analysis.git
